@@ -68,14 +68,16 @@ img{
 }
 
 .products {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding: 3rem 0;
   background-color: #f7f7f7;
+}
+
+.section-content {
+    padding: 5rem 0;
 }
 
 .card {
   float: left;
-  width: 33.333%;
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
